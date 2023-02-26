@@ -123,7 +123,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/WorldChattingFriendsWCF"
+                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/about_lav"
             ),
         ],
         [
@@ -157,7 +157,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/WorldChattingFriendsWCF"
+                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/about_lav"
             ),
         ],
         [
@@ -188,7 +188,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/WorldChattingFriendsWCF"
+                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/about_lav"
             ),
         ],
         [
@@ -348,7 +348,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/WorldChattingFriendsWCF"
+                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/about_lav"
             ),
         ],
         [
