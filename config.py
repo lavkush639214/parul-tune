@@ -25,12 +25,12 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/OpQueenbots/Vc-Playe
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/about_lav")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/fun_world143")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Kalakar_Sangram")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Red_Wine_Op")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "1000"))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "2000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180"))
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
