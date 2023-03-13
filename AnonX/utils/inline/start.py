@@ -44,7 +44,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url=f"https://t.me/about_lav",
+                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url=f"https://t.me/WCFnetwork",
             )
         ],
         [
