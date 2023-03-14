@@ -13,7 +13,7 @@ def back_stats_markup(_):
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
                 ),
             ],
         ]
@@ -31,7 +31,7 @@ def overallback_stats_markup(_):
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
                 ),
             ],
         ]
@@ -43,7 +43,7 @@ def get_stats_markup(_, status):
     not_sudo = [
         InlineKeyboardButton(
             text=_["CLOSEMENU_BUTTON"],
-            callback_data="close",
+            callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
         )
     ]
     sudo = [
@@ -53,7 +53,7 @@ def get_stats_markup(_, status):
         ),
         InlineKeyboardButton(
             text=_["CLOSEMENU_BUTTON"],
-            callback_data="close",
+            callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
         ),
     ]
     upl = InlineKeyboardMarkup(
@@ -103,7 +103,7 @@ def stats_buttons(_, status):
             [
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
                 ),
             ],
         ]
@@ -121,7 +121,7 @@ def back_stats_buttons(_):
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
                 ),
             ],
         ]
@@ -159,7 +159,7 @@ def top_ten_stats_markup(_):
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="close",
+                    callback_data="🔐 𝘾𝙡𝙤𝙨𝙚",
                 ),
             ],
         ]
