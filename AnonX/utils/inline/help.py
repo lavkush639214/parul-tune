@@ -110,7 +110,7 @@ def private_help_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝗛𝗲𝗹𝗽",
+                text="🌸 𝗛𝗲𝗹𝗽 🌸",
                 callback_data="settings_back_helper",
             ),
         ],
