@@ -329,7 +329,7 @@ SA_B_8 : "🤖 𝗕𝗼𝘁 𝗦𝘁𝗮𝘁𝘀"
 
 #Queue
 QU_B_1 : "📑 𝗤𝘂𝗲𝘂𝗲𝗱 𝗟𝗶𝘀𝘁"
-QU_B_2 : "ᴩʟᴀʏᴇᴅ {0} ᴏᴜᴛ ᴏғ {1} ᴍɪɴs"
+QU_B_2 : "𝗣𝗹𝗮𝘆𝗲𝗱 {0} 𝗢𝘂𝘁 𝗼𝗳 {1} 𝗠𝗶𝗻𝘀"
 
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
