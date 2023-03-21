@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 🍷 laila-music player 🍷 」──
+    ──「 🥰 laila-music player 🥰 」──
 </h2>
 
 <p align="center">
