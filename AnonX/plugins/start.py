@@ -173,7 +173,7 @@ async def start_comm(client, message: Message, _):
                             text="𝗬𝗼𝘂𝗧𝘂𝗯𝗲", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/Red_Wine_Op"
+                            text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/feelings_of_lav"
                         ),
                     ],
                 ]
