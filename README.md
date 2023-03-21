@@ -3,19 +3,19 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b5e1580d619a9e0c2d439.jpg">
+  <img src="https://telegra.ph/file/a73c91d6717285a8481d1.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/OpSahubot/Vc-Player/stargazers"><img src="https://img.shields.io/github/stars/OpSahubot/Vc-Player?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/OpSahubot/Vc-Player/network/members"> <img src="https://img.shields.io/github/forks/OpSahubot/Vc-Player?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/OpSahubot/Vc-Player/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/lavkush639214/laila-majanu-player-"><img src="https://img.shields.io/github/stars/lavkush639214/laila-majanu-player?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/lavkush639214/laila-majanu-player-/network/members"> <img src="https://img.shields.io/github/forks/OpSahubot/Vc-Player?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/lavkush639214/laila-majanu-player-/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/OpSahubot/Vc-Player/commits/OpSahubot"> <img src="https://img.shields.io/github/last-commit/OpSahubot/Vc-Player?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/lavkush639214/laila-majanu-player"> <img src="https://img.shields.io/github/last-commit/lavkush639214/laila-majanu-player-?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b5e1580d619a9e0c2d439.jpg">
+  <img src="https://telegra.ph/file/a73c91d6717285a8481d1.jpg">
 </p>
 
 <h3 align="center">
@@ -61,10 +61,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/WorldChattingFriendsWCF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/pagal_faimly"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/Kalakar_Sangram"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/feelings_of_lav"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
