@@ -188,7 +188,7 @@ def telegram_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⏮️ 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽▶️", url="https://t.me/pagal_faimly"
+                text="psycho aur lav ka group", url="https://t.me/lavvvvvvvvvvvvvvv"
             ),
         ],
         [
@@ -348,7 +348,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🍷 𝗖𝗵𝗮𝘁 𝗚𝗿𝗼𝘂𝗽🍷", url="https://t.me/pagal_faimly"
+                text="lav aur psycho ka group", url="https://t.me/lavvvvvvvvvvvvvvv"
             ),
         ],
         [
